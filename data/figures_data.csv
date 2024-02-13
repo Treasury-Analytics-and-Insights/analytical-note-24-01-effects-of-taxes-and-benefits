@@ -1,0 +1,463 @@
+Statistic,Unit,Group or category,Estimate,Sampling error,Note
+HEDI decile boundary,Dollars (tax year 2018/19),Decile 1,24300,400,
+HEDI decile boundary,Dollars (tax year 2018/19),Decile 2,27500,500,
+HEDI decile boundary,Dollars (tax year 2018/19),Decile 3,32600,900,
+HEDI decile boundary,Dollars (tax year 2018/19),Decile 4,38300,1000,
+HEDI decile boundary,Dollars (tax year 2018/19),Decile 5,44700,1100,
+HEDI decile boundary,Dollars (tax year 2018/19),Decile 6,52200,1300,
+HEDI decile boundary,Dollars (tax year 2018/19),Decile 7,61200,1300,
+HEDI decile boundary,Dollars (tax year 2018/19),Decile 8,72300,2000,
+HEDI decile boundary,Dollars (tax year 2018/19),Decile 9,93800,4100,
+Decile population,Households,Decile 1,175000,1000,
+Decile population,Households,Decile 2,176000,4000,
+Decile population,Households,Decile 3,173000,4000,
+Decile population,Households,Decile 4,175000,2000,
+Decile population,Households,Decile 5,176000,2000,
+Decile population,Households,Decile 6,174000,2000,
+Decile population,Households,Decile 7,175000,2000,
+Decile population,Households,Decile 8,177000,3000,
+Decile population,Households,Decile 9,174000,3000,
+Decile population,Households,Decile 10,175000,1000,
+Decile population,Households,All,1749000,0,NB - Zero sampling error by construction of replicate weights
+Average Market income,Dollars (tax year 2018/19),Decile 1,12330,2280,
+Average Market income,Dollars (tax year 2018/19),Decile 2,16950,2810,
+Average Market income,Dollars (tax year 2018/19),Decile 3,36630,4260,
+Average Market income,Dollars (tax year 2018/19),Decile 4,57710,4850,
+Average Market income,Dollars (tax year 2018/19),Decile 5,79070,4420,
+Average Market income,Dollars (tax year 2018/19),Decile 6,94280,4940,
+Average Market income,Dollars (tax year 2018/19),Decile 7,115730,6840,
+Average Market income,Dollars (tax year 2018/19),Decile 8,146180,5840,
+Average Market income,Dollars (tax year 2018/19),Decile 9,176240,10370,
+Average Market income,Dollars (tax year 2018/19),Decile 10,337290,29470,
+Average Market income,Dollars (tax year 2018/19),All,107330,3970,
+Average Disposable income,Dollars (tax year 2018/19),Decile 1,29090,2490,
+Average Disposable income,Dollars (tax year 2018/19),Decile 2,41360,1750,
+Average Disposable income,Dollars (tax year 2018/19),Decile 3,53320,2840,
+Average Disposable income,Dollars (tax year 2018/19),Decile 4,65770,2990,
+Average Disposable income,Dollars (tax year 2018/19),Decile 5,79100,3360,
+Average Disposable income,Dollars (tax year 2018/19),Decile 6,88070,3350,
+Average Disposable income,Dollars (tax year 2018/19),Decile 7,103060,5230,
+Average Disposable income,Dollars (tax year 2018/19),Decile 8,124420,4390,
+Average Disposable income,Dollars (tax year 2018/19),Decile 9,145690,7410,
+Average Disposable income,Dollars (tax year 2018/19),Decile 10,265620,21920,
+Average Disposable income,Dollars (tax year 2018/19),All,99620,2920,
+Average Final income,Dollars (tax year 2018/19),Decile 1,42490,3360,
+Average Final income,Dollars (tax year 2018/19),Decile 2,55490,2740,
+Average Final income,Dollars (tax year 2018/19),Decile 3,66950,3640,
+Average Final income,Dollars (tax year 2018/19),Decile 4,78300,4190,
+Average Final income,Dollars (tax year 2018/19),Decile 5,90550,3820,
+Average Final income,Dollars (tax year 2018/19),Decile 6,94910,3940,
+Average Final income,Dollars (tax year 2018/19),Decile 7,107980,5780,
+Average Final income,Dollars (tax year 2018/19),Decile 8,126690,5210,
+Average Final income,Dollars (tax year 2018/19),Decile 9,146530,8010,
+Average Final income,Dollars (tax year 2018/19),Decile 10,260050,21530,
+Average Final income,Dollars (tax year 2018/19),All,107070,2730,
+Average Income support,Dollars (tax year 2018/19),Decile 1,19780,2170,
+Average Income support,Dollars (tax year 2018/19),Decile 2,29270,1900,
+Average Income support,Dollars (tax year 2018/19),Decile 3,24020,2290,
+Average Income support,Dollars (tax year 2018/19),Decile 4,18930,2230,
+Average Income support,Dollars (tax year 2018/19),Decile 5,14980,2260,
+Average Income support,Dollars (tax year 2018/19),Decile 6,11760,1820,
+Average Income support,Dollars (tax year 2018/19),Decile 7,9590,1790,
+Average Income support,Dollars (tax year 2018/19),Decile 8,8280,1520,
+Average Income support,Dollars (tax year 2018/19),Decile 9,7700,1540,
+Average Income support,Dollars (tax year 2018/19),Decile 10,7660,1490,
+Average Income support,Dollars (tax year 2018/19),All,15200,260,
+Average NZ Super and Vets,Dollars (tax year 2018/19),Decile 1,5010,2050,NB - Sampling error is 21-50% of point estimate
+Average NZ Super and Vets,Dollars (tax year 2018/19),Decile 2,18050,1900,
+Average NZ Super and Vets,Dollars (tax year 2018/19),Decile 3,11350,1830,
+Average NZ Super and Vets,Dollars (tax year 2018/19),Decile 4,8430,1730,
+Average NZ Super and Vets,Dollars (tax year 2018/19),Decile 5,7490,1590,NB - Sampling error is 21-50% of point estimate
+Average NZ Super and Vets,Dollars (tax year 2018/19),Decile 6,7750,1490,
+Average NZ Super and Vets,Dollars (tax year 2018/19),Decile 7,5940,1500,NB - Sampling error is 21-50% of point estimate
+Average NZ Super and Vets,Dollars (tax year 2018/19),Decile 8,5630,1390,NB - Sampling error is 21-50% of point estimate
+Average NZ Super and Vets,Dollars (tax year 2018/19),Decile 9,6640,1450,NB - Sampling error is 21-50% of point estimate
+Average NZ Super and Vets,Dollars (tax year 2018/19),Decile 10,6580,1410,NB - Sampling error is 21-50% of point estimate
+Average NZ Super and Vets,Dollars (tax year 2018/19),All,8290,120,
+Average Working-age support,Dollars (tax year 2018/19),Decile 1,7120,1120,
+Average Working-age support,Dollars (tax year 2018/19),Decile 2,4520,1150,NB - Sampling error is 21-50% of point estimate
+Average Working-age support,Dollars (tax year 2018/19),Decile 3,3950,860,NB - Sampling error is 21-50% of point estimate
+Average Working-age support,Dollars (tax year 2018/19),Decile 4,3260,820,NB - Sampling error is 21-50% of point estimate
+Average Working-age support,Dollars (tax year 2018/19),Decile 5,2320,770,NB - Sampling error is 21-50% of point estimate
+Average Working-age support,Dollars (tax year 2018/19),Decile 6,1330,640,NB - Sampling error is 21-50% of point estimate
+Average Working-age support,Dollars (tax year 2018/19),Decile 7,1500,630,NB - Sampling error is 21-50% of point estimate
+Average Working-age support,Dollars (tax year 2018/19),Decile 8,910,430,NB - Sampling error is 21-50% of point estimate
+Average Working-age support,Dollars (tax year 2018/19),Decile 9,,,Suppressed as sampling error is more than 50% of point estimate
+Average Working-age support,Dollars (tax year 2018/19),Decile 10,,,Suppressed as sampling error is more than 50% of point estimate
+Average Working-age support,Dollars (tax year 2018/19),All,2560,70,
+Average Housing support,Dollars (tax year 2018/19),Decile 1,2130,380,
+Average Housing support,Dollars (tax year 2018/19),Decile 2,2190,500,NB - Sampling error is 21-50% of point estimate
+Average Housing support,Dollars (tax year 2018/19),Decile 3,2860,520,
+Average Housing support,Dollars (tax year 2018/19),Decile 4,2740,610,NB - Sampling error is 21-50% of point estimate
+Average Housing support,Dollars (tax year 2018/19),Decile 5,1990,560,NB - Sampling error is 21-50% of point estimate
+Average Housing support,Dollars (tax year 2018/19),Decile 6,1200,370,NB - Sampling error is 21-50% of point estimate
+Average Housing support,Dollars (tax year 2018/19),Decile 7,500,230,NB - Sampling error is 21-50% of point estimate
+Average Housing support,Dollars (tax year 2018/19),Decile 8,410,190,NB - Sampling error is 21-50% of point estimate
+Average Housing support,Dollars (tax year 2018/19),Decile 9,,,Suppressed as sampling error is more than 50% of point estimate
+Average Housing support,Dollars (tax year 2018/19),Decile 10,,,Suppressed as sampling error is more than 50% of point estimate
+Average Housing support,Dollars (tax year 2018/19),All,1420,110,
+Average Working for Families,Dollars (tax year 2018/19),Decile 1,4100,640,
+Average Working for Families,Dollars (tax year 2018/19),Decile 2,2900,510,
+Average Working for Families,Dollars (tax year 2018/19),Decile 3,3450,500,
+Average Working for Families,Dollars (tax year 2018/19),Decile 4,2570,520,
+Average Working for Families,Dollars (tax year 2018/19),Decile 5,1080,360,NB - Sampling error is 21-50% of point estimate
+Average Working for Families,Dollars (tax year 2018/19),Decile 6,,,Suppressed as sampling error is more than 50% of point estimate
+Average Working for Families,Dollars (tax year 2018/19),Decile 7,,,Suppressed as sampling error is more than 50% of point estimate
+Average Working for Families,Dollars (tax year 2018/19),Decile 8,,,Suppressed as sampling error is more than 50% of point estimate
+Average Working for Families,Dollars (tax year 2018/19),Decile 9,,,Suppressed as sampling error is more than 50% of point estimate
+Average Working for Families,Dollars (tax year 2018/19),Decile 10,,,Suppressed as sampling error is more than 50% of point estimate
+Average Working for Families,Dollars (tax year 2018/19),All,1520,80,
+Average Other income support,Dollars (tax year 2018/19),Decile 1,1420,320,NB - Sampling error is 21-50% of point estimate
+Average Other income support,Dollars (tax year 2018/19),Decile 2,1610,390,NB - Sampling error is 21-50% of point estimate
+Average Other income support,Dollars (tax year 2018/19),Decile 3,2420,610,NB - Sampling error is 21-50% of point estimate
+Average Other income support,Dollars (tax year 2018/19),Decile 4,1930,490,NB - Sampling error is 21-50% of point estimate
+Average Other income support,Dollars (tax year 2018/19),Decile 5,2100,520,NB - Sampling error is 21-50% of point estimate
+Average Other income support,Dollars (tax year 2018/19),Decile 6,1110,260,NB - Sampling error is 21-50% of point estimate
+Average Other income support,Dollars (tax year 2018/19),Decile 7,1300,390,NB - Sampling error is 21-50% of point estimate
+Average Other income support,Dollars (tax year 2018/19),Decile 8,1080,320,NB - Sampling error is 21-50% of point estimate
+Average Other income support,Dollars (tax year 2018/19),Decile 9,590,210,NB - Sampling error is 21-50% of point estimate
+Average Other income support,Dollars (tax year 2018/19),Decile 10,490,140,NB - Sampling error is 21-50% of point estimate
+Average Other income support,Dollars (tax year 2018/19),All,1410,120,
+Average Direct taxes,Dollars (tax year 2018/19),Decile 1,3030,240,
+Average Direct taxes,Dollars (tax year 2018/19),Decile 2,4860,320,
+Average Direct taxes,Dollars (tax year 2018/19),Decile 3,7340,560,
+Average Direct taxes,Dollars (tax year 2018/19),Decile 4,10870,780,
+Average Direct taxes,Dollars (tax year 2018/19),Decile 5,14950,870,
+Average Direct taxes,Dollars (tax year 2018/19),Decile 6,17970,970,
+Average Direct taxes,Dollars (tax year 2018/19),Decile 7,22270,1490,
+Average Direct taxes,Dollars (tax year 2018/19),Decile 8,30020,1490,
+Average Direct taxes,Dollars (tax year 2018/19),Decile 9,38240,2560,
+Average Direct taxes,Dollars (tax year 2018/19),Decile 10,79310,8550,
+Average Direct taxes,Dollars (tax year 2018/19),All,22910,1080,
+Average Indirect taxes,Dollars (tax year 2018/19),Decile 1,5590,540,
+Average Indirect taxes,Dollars (tax year 2018/19),Decile 2,5700,540,
+Average Indirect taxes,Dollars (tax year 2018/19),Decile 3,7030,1000,
+Average Indirect taxes,Dollars (tax year 2018/19),Decile 4,8130,690,
+Average Indirect taxes,Dollars (tax year 2018/19),Decile 5,8360,590,
+Average Indirect taxes,Dollars (tax year 2018/19),Decile 6,9760,780,
+Average Indirect taxes,Dollars (tax year 2018/19),Decile 7,10660,910,
+Average Indirect taxes,Dollars (tax year 2018/19),Decile 8,12980,1140,
+Average Indirect taxes,Dollars (tax year 2018/19),Decile 9,12520,830,
+Average Indirect taxes,Dollars (tax year 2018/19),Decile 10,17990,1490,
+Average Indirect taxes,Dollars (tax year 2018/19),All,9880,290,
+Average Personal income tax,Dollars (tax year 2018/19),Decile 1,2880,240,
+Average Personal income tax,Dollars (tax year 2018/19),Decile 2,4680,300,
+Average Personal income tax,Dollars (tax year 2018/19),Decile 3,6950,510,
+Average Personal income tax,Dollars (tax year 2018/19),Decile 4,10250,730,
+Average Personal income tax,Dollars (tax year 2018/19),Decile 5,14080,820,
+Average Personal income tax,Dollars (tax year 2018/19),Decile 6,16950,920,
+Average Personal income tax,Dollars (tax year 2018/19),Decile 7,21010,1420,
+Average Personal income tax,Dollars (tax year 2018/19),Decile 8,28480,1440,
+Average Personal income tax,Dollars (tax year 2018/19),Decile 9,36510,2460,
+Average Personal income tax,Dollars (tax year 2018/19),Decile 10,77310,8540,
+Average Personal income tax,Dollars (tax year 2018/19),All,21930,1070,
+Average ACC earners' levy,Dollars (tax year 2018/19),Decile 1,150,20,
+Average ACC earners' levy,Dollars (tax year 2018/19),Decile 2,180,40,NB - Sampling error is 21-50% of point estimate
+Average ACC earners' levy,Dollars (tax year 2018/19),Decile 3,390,50,
+Average ACC earners' levy,Dollars (tax year 2018/19),Decile 4,630,60,
+Average ACC earners' levy,Dollars (tax year 2018/19),Decile 5,880,60,
+Average ACC earners' levy,Dollars (tax year 2018/19),Decile 6,1020,60,
+Average ACC earners' levy,Dollars (tax year 2018/19),Decile 7,1260,90,
+Average ACC earners' levy,Dollars (tax year 2018/19),Decile 8,1540,80,
+Average ACC earners' levy,Dollars (tax year 2018/19),Decile 9,1730,120,
+Average ACC earners' levy,Dollars (tax year 2018/19),Decile 10,2010,110,
+Average ACC earners' levy,Dollars (tax year 2018/19),All,980,20,
+Average GST,Dollars (tax year 2018/19),Decile 1,5010,500,
+Average GST,Dollars (tax year 2018/19),Decile 2,5070,490,
+Average GST,Dollars (tax year 2018/19),Decile 3,6360,960,
+Average GST,Dollars (tax year 2018/19),Decile 4,7210,620,
+Average GST,Dollars (tax year 2018/19),Decile 5,7450,500,
+Average GST,Dollars (tax year 2018/19),Decile 6,8670,710,
+Average GST,Dollars (tax year 2018/19),Decile 7,9600,850,
+Average GST,Dollars (tax year 2018/19),Decile 8,11780,1060,
+Average GST,Dollars (tax year 2018/19),Decile 9,11320,760,
+Average GST,Dollars (tax year 2018/19),Decile 10,16660,1430,
+Average GST,Dollars (tax year 2018/19),All,8920,270,
+Average Alcohol excise,Dollars (tax year 2018/19),Decile 1,110,30,NB - Sampling error is 21-50% of point estimate
+Average Alcohol excise,Dollars (tax year 2018/19),Decile 2,160,60,NB - Sampling error is 21-50% of point estimate
+Average Alcohol excise,Dollars (tax year 2018/19),Decile 3,210,50,NB - Sampling error is 21-50% of point estimate
+Average Alcohol excise,Dollars (tax year 2018/19),Decile 4,220,50,NB - Sampling error is 21-50% of point estimate
+Average Alcohol excise,Dollars (tax year 2018/19),Decile 5,230,70,NB - Sampling error is 21-50% of point estimate
+Average Alcohol excise,Dollars (tax year 2018/19),Decile 6,310,70,NB - Sampling error is 21-50% of point estimate
+Average Alcohol excise,Dollars (tax year 2018/19),Decile 7,330,80,NB - Sampling error is 21-50% of point estimate
+Average Alcohol excise,Dollars (tax year 2018/19),Decile 8,400,90,NB - Sampling error is 21-50% of point estimate
+Average Alcohol excise,Dollars (tax year 2018/19),Decile 9,510,90,
+Average Alcohol excise,Dollars (tax year 2018/19),Decile 10,650,120,
+Average Alcohol excise,Dollars (tax year 2018/19),All,310,20,
+Average Petrol excise,Dollars (tax year 2018/19),Decile 1,300,60,
+Average Petrol excise,Dollars (tax year 2018/19),Decile 2,300,50,
+Average Petrol excise,Dollars (tax year 2018/19),Decile 3,350,60,
+Average Petrol excise,Dollars (tax year 2018/19),Decile 4,400,50,
+Average Petrol excise,Dollars (tax year 2018/19),Decile 5,470,60,
+Average Petrol excise,Dollars (tax year 2018/19),Decile 6,480,70,
+Average Petrol excise,Dollars (tax year 2018/19),Decile 7,490,80,
+Average Petrol excise,Dollars (tax year 2018/19),Decile 8,600,120,
+Average Petrol excise,Dollars (tax year 2018/19),Decile 9,470,80,
+Average Petrol excise,Dollars (tax year 2018/19),Decile 10,530,80,
+Average Petrol excise,Dollars (tax year 2018/19),All,440,20,
+Average Tobacco excise,Dollars (tax year 2018/19),Decile 1,180,90,NB - Sampling error is 21-50% of point estimate
+Average Tobacco excise,Dollars (tax year 2018/19),Decile 2,170,70,NB - Sampling error is 21-50% of point estimate
+Average Tobacco excise,Dollars (tax year 2018/19),Decile 3,,,Suppressed as sampling error is more than 50% of point estimate
+Average Tobacco excise,Dollars (tax year 2018/19),Decile 4,300,120,NB - Sampling error is 21-50% of point estimate
+Average Tobacco excise,Dollars (tax year 2018/19),Decile 5,220,100,NB - Sampling error is 21-50% of point estimate
+Average Tobacco excise,Dollars (tax year 2018/19),Decile 6,300,100,NB - Sampling error is 21-50% of point estimate
+Average Tobacco excise,Dollars (tax year 2018/19),Decile 7,250,90,NB - Sampling error is 21-50% of point estimate
+Average Tobacco excise,Dollars (tax year 2018/19),Decile 8,200,90,NB - Sampling error is 21-50% of point estimate
+Average Tobacco excise,Dollars (tax year 2018/19),Decile 9,230,90,NB - Sampling error is 21-50% of point estimate
+Average Tobacco excise,Dollars (tax year 2018/19),Decile 10,150,70,NB - Sampling error is 21-50% of point estimate
+Average Tobacco excise,Dollars (tax year 2018/19),All,210,30,
+Average Education spending,Dollars (tax year 2018/19),Decile 1,9240,1430,
+Average Education spending,Dollars (tax year 2018/19),Decile 2,5680,1090,
+Average Education spending,Dollars (tax year 2018/19),Decile 3,8570,1190,
+Average Education spending,Dollars (tax year 2018/19),Decile 4,9470,1430,
+Average Education spending,Dollars (tax year 2018/19),Decile 5,9130,1340,
+Average Education spending,Dollars (tax year 2018/19),Decile 6,6600,1050,
+Average Education spending,Dollars (tax year 2018/19),Decile 7,6010,980,
+Average Education spending,Dollars (tax year 2018/19),Decile 8,6510,1180,
+Average Education spending,Dollars (tax year 2018/19),Decile 9,4610,1080,NB - Sampling error is 21-50% of point estimate
+Average Education spending,Dollars (tax year 2018/19),Decile 10,4550,770,
+Average Education spending,Dollars (tax year 2018/19),All,7040,200,
+Average Health spending,Dollars (tax year 2018/19),Decile 1,9760,810,
+Average Health spending,Dollars (tax year 2018/19),Decile 2,14150,940,
+Average Health spending,Dollars (tax year 2018/19),Decile 3,12090,870,
+Average Health spending,Dollars (tax year 2018/19),Decile 4,11190,890,
+Average Health spending,Dollars (tax year 2018/19),Decile 5,10690,830,
+Average Health spending,Dollars (tax year 2018/19),Decile 6,10000,860,
+Average Health spending,Dollars (tax year 2018/19),Decile 7,9570,960,
+Average Health spending,Dollars (tax year 2018/19),Decile 8,8730,790,
+Average Health spending,Dollars (tax year 2018/19),Decile 9,8760,650,
+Average Health spending,Dollars (tax year 2018/19),Decile 10,7860,560,
+Average Health spending,Dollars (tax year 2018/19),All,10290,140,
+Average Net Fiscal Impact,Dollars (tax year 2018/19),Decile 1,30160,3120,
+Average Net Fiscal Impact,Dollars (tax year 2018/19),Decile 2,38540,2940,
+Average Net Fiscal Impact,Dollars (tax year 2018/19),Decile 3,30320,3520,
+Average Net Fiscal Impact,Dollars (tax year 2018/19),Decile 4,20590,3110,
+Average Net Fiscal Impact,Dollars (tax year 2018/19),Decile 5,11480,3260,NB - Sampling error is 21-50% of point estimate
+Average Net Fiscal Impact,Dollars (tax year 2018/19),Decile 6,,,Suppressed as sampling error is more than 50% of point estimate
+Average Net Fiscal Impact,Dollars (tax year 2018/19),Decile 7,-7750,3120,NB - Sampling error is 21-50% of point estimate
+Average Net Fiscal Impact,Dollars (tax year 2018/19),Decile 8,-19470,2840,
+Average Net Fiscal Impact,Dollars (tax year 2018/19),Decile 9,-29700,3500,
+Average Net Fiscal Impact,Dollars (tax year 2018/19),Decile 10,-77230,9270,
+Average Net Fiscal Impact,Dollars (tax year 2018/19),All,,,Suppressed as sampling error is more than 50% of point estimate
+Gini coefficient,Gini points,Market income,45.55,1.52,mOECD equivalised household incomes assigned to individuals
+Gini coefficient,Gini points,Gross income,35.83,1.55,mOECD equivalised household incomes assigned to individuals
+Gini coefficient,Gini points,Disposable income,33.13,1.45,mOECD equivalised household incomes assigned to individuals
+Gini coefficient,Gini points,Post-tax income,34.86,1.56,mOECD equivalised household incomes assigned to individuals
+Gini coefficient,Gini points,Final income,28.08,1.44,mOECD equivalised household incomes assigned to individuals
+Gini coefficient,Gini points,HES,32.7,0.6,mOECD equivalised household incomes assigned to individuals
+Gini coefficient,Gini points,TAWA (HES Inc),32.99,0.71,mOECD equivalised household incomes assigned to individuals
+Gini coefficient,Gini points,TAWA (HES Exp),33.58,1.42,mOECD equivalised household incomes assigned to individuals
+Proportion of retired households,Percent,Decile 1,22.9,6.1,NB - Sampling error is 21-50% of point estimate
+Proportion of retired households,Percent,Decile 2,54,5.5,
+Proportion of retired households,Percent,Decile 3,31.8,5.8,
+Proportion of retired households,Percent,Decile 4,22.3,4.8,NB - Sampling error is 21-50% of point estimate
+Proportion of retired households,Percent,Decile 5,17,4.6,NB - Sampling error is 21-50% of point estimate
+Proportion of retired households,Percent,Decile 6,17.8,4.1,NB - Sampling error is 21-50% of point estimate
+Proportion of retired households,Percent,Decile 7,14.9,4,NB - Sampling error is 21-50% of point estimate
+Proportion of retired households,Percent,Decile 8,11.9,3.6,NB - Sampling error is 21-50% of point estimate
+Proportion of retired households,Percent,Decile 9,12.6,3.8,NB - Sampling error is 21-50% of point estimate
+Proportion of retired households,Percent,Decile 10,9.1,3.4,NB - Sampling error is 21-50% of point estimate
+Proportion of retired households,Percent,All,21.5,0.9,
+Average Income support - retired households,Dollars (tax year 2018/19),Decile 1,24480,4160,
+Average Income support - retired households,Dollars (tax year 2018/19),Decile 2,34450,1270,
+Average Income support - retired households,Dollars (tax year 2018/19),Decile 3,36220,2210,
+Average Income support - retired households,Dollars (tax year 2018/19),Decile 4,37460,2720,
+Average Income support - retired households,Dollars (tax year 2018/19),Decile 5,37630,4280,
+Average Income support - retired households,Dollars (tax year 2018/19),Decile 6,35390,3670,
+Average Income support - retired households,Dollars (tax year 2018/19),Decile 7,32920,3810,
+Average Income support - retired households,Dollars (tax year 2018/19),Decile 8,32290,3360,
+Average Income support - retired households,Dollars (tax year 2018/19),Decile 9,34090,3230,
+Average Income support - retired households,Dollars (tax year 2018/19),Decile 10,32130,3790,
+Average Income support - retired households,Dollars (tax year 2018/19),All,33850,710,
+Average Direct taxes - retired households,Dollars (tax year 2018/19),Decile 1,2600,410,
+Average Direct taxes - retired households,Dollars (tax year 2018/19),Decile 2,3880,170,
+Average Direct taxes - retired households,Dollars (tax year 2018/19),Decile 3,4870,510,
+Average Direct taxes - retired households,Dollars (tax year 2018/19),Decile 4,7100,1460,
+Average Direct taxes - retired households,Dollars (tax year 2018/19),Decile 5,8970,1490,
+Average Direct taxes - retired households,Dollars (tax year 2018/19),Decile 6,11940,1850,
+Average Direct taxes - retired households,Dollars (tax year 2018/19),Decile 7,18270,3540,
+Average Direct taxes - retired households,Dollars (tax year 2018/19),Decile 8,20570,3880,
+Average Direct taxes - retired households,Dollars (tax year 2018/19),Decile 9,31500,6180,
+Average Direct taxes - retired households,Dollars (tax year 2018/19),Decile 10,66380,16420,NB - Sampling error is 21-50% of point estimate
+Average Direct taxes - retired households,Dollars (tax year 2018/19),All,11480,1410,
+Average Indirect taxes - retired households,Dollars (tax year 2018/19),Decile 1,5080,1390,NB - Sampling error is 21-50% of point estimate
+Average Indirect taxes - retired households,Dollars (tax year 2018/19),Decile 2,5050,550,
+Average Indirect taxes - retired households,Dollars (tax year 2018/19),Decile 3,5850,630,
+Average Indirect taxes - retired households,Dollars (tax year 2018/19),Decile 4,7000,1580,NB - Sampling error is 21-50% of point estimate
+Average Indirect taxes - retired households,Dollars (tax year 2018/19),Decile 5,6700,1140,
+Average Indirect taxes - retired households,Dollars (tax year 2018/19),Decile 6,8130,2090,NB - Sampling error is 21-50% of point estimate
+Average Indirect taxes - retired households,Dollars (tax year 2018/19),Decile 7,11000,2260,
+Average Indirect taxes - retired households,Dollars (tax year 2018/19),Decile 8,13900,4360,NB - Sampling error is 21-50% of point estimate
+Average Indirect taxes - retired households,Dollars (tax year 2018/19),Decile 9,11950,1970,
+Average Indirect taxes - retired households,Dollars (tax year 2018/19),Decile 10,20130,6440,NB - Sampling error is 21-50% of point estimate
+Average Indirect taxes - retired households,Dollars (tax year 2018/19),All,7700,510,
+Average In-kind spending - retired households,Dollars (tax year 2018/19),Decile 1,17200,2900,
+Average In-kind spending - retired households,Dollars (tax year 2018/19),Decile 2,18280,1460,
+Average In-kind spending - retired households,Dollars (tax year 2018/19),Decile 3,18760,2110,
+Average In-kind spending - retired households,Dollars (tax year 2018/19),Decile 4,19950,3080,
+Average In-kind spending - retired households,Dollars (tax year 2018/19),Decile 5,20800,3390,
+Average In-kind spending - retired households,Dollars (tax year 2018/19),Decile 6,17060,3640,NB - Sampling error is 21-50% of point estimate
+Average In-kind spending - retired households,Dollars (tax year 2018/19),Decile 7,22350,5070,NB - Sampling error is 21-50% of point estimate
+Average In-kind spending - retired households,Dollars (tax year 2018/19),Decile 8,17330,3700,NB - Sampling error is 21-50% of point estimate
+Average In-kind spending - retired households,Dollars (tax year 2018/19),Decile 9,18000,2940,
+Average In-kind spending - retired households,Dollars (tax year 2018/19),Decile 10,16130,4170,NB - Sampling error is 21-50% of point estimate
+Average In-kind spending - retired households,Dollars (tax year 2018/19),All,18580,780,
+Average Net Fiscal Impact - retired households,Dollars (tax year 2018/19),Decile 1,33980,5050,
+Average Net Fiscal Impact - retired households,Dollars (tax year 2018/19),Decile 2,43800,2340,
+Average Net Fiscal Impact - retired households,Dollars (tax year 2018/19),Decile 3,44250,3170,
+Average Net Fiscal Impact - retired households,Dollars (tax year 2018/19),Decile 4,43330,4690,
+Average Net Fiscal Impact - retired households,Dollars (tax year 2018/19),Decile 5,42770,6160,
+Average Net Fiscal Impact - retired households,Dollars (tax year 2018/19),Decile 6,32350,5260,
+Average Net Fiscal Impact - retired households,Dollars (tax year 2018/19),Decile 7,26040,5770,NB - Sampling error is 21-50% of point estimate
+Average Net Fiscal Impact - retired households,Dollars (tax year 2018/19),Decile 8,15140,6570,NB - Sampling error is 21-50% of point estimate
+Average Net Fiscal Impact - retired households,Dollars (tax year 2018/19),Decile 9,,,Suppressed as sampling error is more than 50% of point estimate
+Average Net Fiscal Impact - retired households,Dollars (tax year 2018/19),Decile 10,-38250,17820,NB - Sampling error is 21-50% of point estimate
+Average Net Fiscal Impact - retired households,Dollars (tax year 2018/19),All,33250,2000,
+Average Income support - non-retired households,Dollars (tax year 2018/19),Decile 1,18390,2190,
+Average Income support - non-retired households,Dollars (tax year 2018/19),Decile 2,23190,3300,
+Average Income support - non-retired households,Dollars (tax year 2018/19),Decile 3,18340,2400,
+Average Income support - non-retired households,Dollars (tax year 2018/19),Decile 4,13520,2130,
+Average Income support - non-retired households,Dollars (tax year 2018/19),Decile 5,10390,2120,
+Average Income support - non-retired households,Dollars (tax year 2018/19),Decile 6,6600,1450,NB - Sampling error is 21-50% of point estimate
+Average Income support - non-retired households,Dollars (tax year 2018/19),Decile 7,5560,1510,NB - Sampling error is 21-50% of point estimate
+Average Income support - non-retired households,Dollars (tax year 2018/19),Decile 8,5040,1240,NB - Sampling error is 21-50% of point estimate
+Average Income support - non-retired households,Dollars (tax year 2018/19),Decile 9,3870,1170,NB - Sampling error is 21-50% of point estimate
+Average Income support - non-retired households,Dollars (tax year 2018/19),Decile 10,5190,1210,NB - Sampling error is 21-50% of point estimate
+Average Income support - non-retired households,Dollars (tax year 2018/19),All,10090,410,
+Average Direct taxes - non-retired households,Dollars (tax year 2018/19),Decile 1,3160,270,
+Average Direct taxes - non-retired households,Dollars (tax year 2018/19),Decile 2,5990,590,
+Average Direct taxes - non-retired households,Dollars (tax year 2018/19),Decile 3,8490,660,
+Average Direct taxes - non-retired households,Dollars (tax year 2018/19),Decile 4,11870,820,
+Average Direct taxes - non-retired households,Dollars (tax year 2018/19),Decile 5,16300,1180,
+Average Direct taxes - non-retired households,Dollars (tax year 2018/19),Decile 6,19150,970,
+Average Direct taxes - non-retired households,Dollars (tax year 2018/19),Decile 7,23120,1660,
+Average Direct taxes - non-retired households,Dollars (tax year 2018/19),Decile 8,31290,1740,
+Average Direct taxes - non-retired households,Dollars (tax year 2018/19),Decile 9,39220,2500,
+Average Direct taxes - non-retired households,Dollars (tax year 2018/19),Decile 10,80620,9150,
+Average Direct taxes - non-retired households,Dollars (tax year 2018/19),All,26010,1290,
+Average Indirect taxes - non-retired households,Dollars (tax year 2018/19),Decile 1,5740,630,
+Average Indirect taxes - non-retired households,Dollars (tax year 2018/19),Decile 2,6470,1000,
+Average Indirect taxes - non-retired households,Dollars (tax year 2018/19),Decile 3,7580,1380,
+Average Indirect taxes - non-retired households,Dollars (tax year 2018/19),Decile 4,8390,790,
+Average Indirect taxes - non-retired households,Dollars (tax year 2018/19),Decile 5,8770,710,
+Average Indirect taxes - non-retired households,Dollars (tax year 2018/19),Decile 6,10050,800,
+Average Indirect taxes - non-retired households,Dollars (tax year 2018/19),Decile 7,10680,1040,
+Average Indirect taxes - non-retired households,Dollars (tax year 2018/19),Decile 8,12850,1130,
+Average Indirect taxes - non-retired households,Dollars (tax year 2018/19),Decile 9,12610,910,
+Average Indirect taxes - non-retired households,Dollars (tax year 2018/19),Decile 10,17770,1460,
+Average Indirect taxes - non-retired households,Dollars (tax year 2018/19),All,10470,340,
+Average In-kind spending - non-retired households,Dollars (tax year 2018/19),Decile 1,19530,2010,
+Average In-kind spending - non-retired households,Dollars (tax year 2018/19),Decile 2,21640,2360,
+Average In-kind spending - non-retired households,Dollars (tax year 2018/19),Decile 3,21560,2010,
+Average In-kind spending - non-retired households,Dollars (tax year 2018/19),Decile 4,20710,1970,
+Average In-kind spending - non-retired households,Dollars (tax year 2018/19),Decile 5,19750,1650,
+Average In-kind spending - non-retired households,Dollars (tax year 2018/19),Decile 6,16390,1440,
+Average In-kind spending - non-retired households,Dollars (tax year 2018/19),Decile 7,14500,1420,
+Average In-kind spending - non-retired households,Dollars (tax year 2018/19),Decile 8,14970,1750,
+Average In-kind spending - non-retired households,Dollars (tax year 2018/19),Decile 9,12700,1310,
+Average In-kind spending - non-retired households,Dollars (tax year 2018/19),Decile 10,12040,1050,
+Average In-kind spending - non-retired households,Dollars (tax year 2018/19),All,16970,340,
+Average Net Fiscal Impact - non-retired households,Dollars (tax year 2018/19),Decile 1,29030,3590,
+Average Net Fiscal Impact - non-retired households,Dollars (tax year 2018/19),Decile 2,32370,4930,
+Average Net Fiscal Impact - non-retired households,Dollars (tax year 2018/19),Decile 3,23830,4150,
+Average Net Fiscal Impact - non-retired households,Dollars (tax year 2018/19),Decile 4,13960,3220,NB - Sampling error is 21-50% of point estimate
+Average Net Fiscal Impact - non-retired households,Dollars (tax year 2018/19),Decile 5,,,Suppressed as sampling error is more than 50% of point estimate
+Average Net Fiscal Impact - non-retired households,Dollars (tax year 2018/19),Decile 6,-6200,2230,NB - Sampling error is 21-50% of point estimate
+Average Net Fiscal Impact - non-retired households,Dollars (tax year 2018/19),Decile 7,-13740,2590,
+Average Net Fiscal Impact - non-retired households,Dollars (tax year 2018/19),Decile 8,-24130,2700,
+Average Net Fiscal Impact - non-retired households,Dollars (tax year 2018/19),Decile 9,-35250,3200,
+Average Net Fiscal Impact - non-retired households,Dollars (tax year 2018/19),Decile 10,-81160,9900,
+Average Net Fiscal Impact - non-retired households,Dollars (tax year 2018/19),All,-9430,1690,
+Gini coefficient - retired households,Gini points,Market income,62.41,3.61,mOECD equivalised household incomes assigned to individuals
+Gini coefficient - retired households,Gini points,Gross income,33.97,3.57,mOECD equivalised household incomes assigned to individuals
+Gini coefficient - retired households,Gini points,Disposable income,31.64,3.45,mOECD equivalised household incomes assigned to individuals
+Gini coefficient - retired households,Gini points,Post-tax income,33.93,3.73,mOECD equivalised household incomes assigned to individuals
+Gini coefficient - retired households,Gini points,Final income,26.18,3.23,mOECD equivalised household incomes assigned to individuals
+Gini coefficient - non-retired households,Gini points,Market income,42.13,1.78,mOECD equivalised household incomes assigned to individuals
+Gini coefficient - non-retired households,Gini points,Gross income,35.7,1.74,mOECD equivalised household incomes assigned to individuals
+Gini coefficient - non-retired households,Gini points,Disposable income,33.08,1.63,mOECD equivalised household incomes assigned to individuals
+Gini coefficient - non-retired households,Gini points,Post-tax income,34.7,1.73,mOECD equivalised household incomes assigned to individuals
+Gini coefficient - non-retired households,Gini points,Final income,28.28,1.6,mOECD equivalised household incomes assigned to individuals
+Unscaled total - TAWA (HES Expenditure),Dollars (tax year 2018/19),ACC earners' levy,1983000000,45000000,
+Unscaled total - TAWA (HES Expenditure),Dollars (tax year 2018/19),Accommodation Supplement,1437000000,126000000,
+Unscaled total - TAWA (HES Expenditure),Dollars (tax year 2018/19),Alcohol excise,545000000,37000000,
+Unscaled total - TAWA (HES Expenditure),Dollars (tax year 2018/19),Best Start tax credit,154000000,25000000,
+Unscaled total - TAWA (HES Expenditure),Dollars (tax year 2018/19),Early childhood education,1472000000,111000000,
+Unscaled total - TAWA (HES Expenditure),Dollars (tax year 2018/19),Family tax credit,2198000000,132000000,
+Unscaled total - TAWA (HES Expenditure),Dollars (tax year 2018/19),GST,12974000000,387000000,
+Unscaled total - TAWA (HES Expenditure),Dollars (tax year 2018/19),Health,11325000000,155000000,
+Unscaled total - TAWA (HES Expenditure),Dollars (tax year 2018/19),Income-Related Rent Subsidy,652000000,128000000,
+Unscaled total - TAWA (HES Expenditure),Dollars (tax year 2018/19),In-work tax credit,677000000,52000000,
+Unscaled total - TAWA (HES Expenditure),Dollars (tax year 2018/19),Jobseeker Support,1627000000,84000000,
+Unscaled total - TAWA (HES Expenditure),Dollars (tax year 2018/19),Minimum family tax credit,,,Suppressed as sampling error is more than 50% of point estimate
+Unscaled total - TAWA (HES Expenditure),Dollars (tax year 2018/19),NZ Super and Vets,13338000000,186000000,
+Unscaled total - TAWA (HES Expenditure),Dollars (tax year 2018/19),Paid parental leave,346000000,77000000,NB - Sampling error is 21-50% of point estimate
+Unscaled total - TAWA (HES Expenditure),Dollars (tax year 2018/19),Personal income tax,42195000000,2061000000,
+Unscaled total - TAWA (HES Expenditure),Dollars (tax year 2018/19),Petrol excise,765000000,39000000,
+Unscaled total - TAWA (HES Expenditure),Dollars (tax year 2018/19),Primary education,3287000000,80000000,
+Unscaled total - TAWA (HES Expenditure),Dollars (tax year 2018/19),Secondary education,2449000000,155000000,
+Unscaled total - TAWA (HES Expenditure),Dollars (tax year 2018/19),Sole Parent Support,1070000000,31000000,
+Unscaled total - TAWA (HES Expenditure),Dollars (tax year 2018/19),Student allowance,458000000,109000000,NB - Sampling error is 21-50% of point estimate
+Unscaled total - TAWA (HES Expenditure),Dollars (tax year 2018/19),Student loan,571000000,53000000,
+Unscaled total - TAWA (HES Expenditure),Dollars (tax year 2018/19),Supported Living Payment,1488000000,52000000,
+Unscaled total - TAWA (HES Expenditure),Dollars (tax year 2018/19),Tertiary education,4013000000,374000000,
+Unscaled total - TAWA (HES Expenditure),Dollars (tax year 2018/19),Tobacco excise,370000000,48000000,
+Unscaled total - TAWA (HES Expenditure),Dollars (tax year 2018/19),Winter Energy Payment,426000000,5000000,
+Unscaled total - TAWA (HES Expenditure),Dollars (tax year 2018/19),Youth/Young Parent Payment,,,Suppressed due to small sample count
+Unscaled total - TAWA (HES Income),Dollars (tax year 2018/19),ACC earners' levy,1998000000,20000000,
+Unscaled total - TAWA (HES Income),Dollars (tax year 2018/19),Accommodation Supplement,1422000000,54000000,
+Unscaled total - TAWA (HES Income),Dollars (tax year 2018/19),Alcohol excise,,,Not available when using HES income survey
+Unscaled total - TAWA (HES Income),Dollars (tax year 2018/19),Best Start tax credit,156000000,12000000,
+Unscaled total - TAWA (HES Income),Dollars (tax year 2018/19),Early childhood education,1426000000,53000000,
+Unscaled total - TAWA (HES Income),Dollars (tax year 2018/19),Family tax credit,2160000000,64000000,
+Unscaled total - TAWA (HES Income),Dollars (tax year 2018/19),GST,,,Not available when using HES income survey
+Unscaled total - TAWA (HES Income),Dollars (tax year 2018/19),Health,11403000000,66000000,
+Unscaled total - TAWA (HES Income),Dollars (tax year 2018/19),Income-Related Rent Subsidy,639000000,62000000,
+Unscaled total - TAWA (HES Income),Dollars (tax year 2018/19),In-work tax credit,648000000,27000000,
+Unscaled total - TAWA (HES Income),Dollars (tax year 2018/19),Jobseeker Support,1601000000,27000000,
+Unscaled total - TAWA (HES Income),Dollars (tax year 2018/19),Minimum family tax credit,22000000,6000000,NB - Sampling error is 21-50% of point estimate
+Unscaled total - TAWA (HES Income),Dollars (tax year 2018/19),NZ Super and Vets,13277000000,108000000,
+Unscaled total - TAWA (HES Income),Dollars (tax year 2018/19),Paid parental leave,375000000,35000000,
+Unscaled total - TAWA (HES Income),Dollars (tax year 2018/19),Personal income tax,42562000000,986000000,
+Unscaled total - TAWA (HES Income),Dollars (tax year 2018/19),Petrol excise,,,Not available when using HES income survey
+Unscaled total - TAWA (HES Income),Dollars (tax year 2018/19),Primary education,3274000000,35000000,
+Unscaled total - TAWA (HES Income),Dollars (tax year 2018/19),Secondary education,2387000000,73000000,
+Unscaled total - TAWA (HES Income),Dollars (tax year 2018/19),Sole Parent Support,1064000000,18000000,
+Unscaled total - TAWA (HES Income),Dollars (tax year 2018/19),Student allowance,536000000,51000000,
+Unscaled total - TAWA (HES Income),Dollars (tax year 2018/19),Student loan,571000000,26000000,
+Unscaled total - TAWA (HES Income),Dollars (tax year 2018/19),Supported Living Payment,1513000000,24000000,
+Unscaled total - TAWA (HES Income),Dollars (tax year 2018/19),Tertiary education,4114000000,182000000,
+Unscaled total - TAWA (HES Income),Dollars (tax year 2018/19),Tobacco excise,,,Not available when using HES income survey
+Unscaled total - TAWA (HES Income),Dollars (tax year 2018/19),Winter Energy Payment,424000000,3000000,
+Unscaled total - TAWA (HES Income),Dollars (tax year 2018/19),Youth/Young Parent Payment,75000000,22000000,NB - Sampling error is 21-50% of point estimate
+Redistributive effect,Gini points,Income support,9.73,0.44,mOECD equivalised household incomes assigned to individuals
+Redistributive effect,Gini points,Direct taxes,2.69,0.24,mOECD equivalised household incomes assigned to individuals
+Redistributive effect,Gini points,Indirect taxes,-1.73,0.21,mOECD equivalised household incomes assigned to individuals
+Redistributive effect,Gini points,In-kind benefits,6.78,0.29,mOECD equivalised household incomes assigned to individuals
+Kakwani progressivity index,Gini points,Income support,90.72,2.44,mOECD equivalised household incomes assigned to individuals
+Kakwani progressivity index,Gini points,Direct taxes,11.99,0.81,mOECD equivalised household incomes assigned to individuals
+Kakwani progressivity index,Gini points,Indirect taxes,-13.3,1.85,mOECD equivalised household incomes assigned to individuals
+Kakwani progressivity index,Gini points,In-kind benefits,43.95,1.95,mOECD equivalised household incomes assigned to individuals
+Average rate,Percent,Income support,13.14,0.61,mOECD equivalised household incomes assigned to individuals
+Average rate,Percent,Direct taxes,18.75,0.38,mOECD equivalised household incomes assigned to individuals
+Average rate,Percent,Indirect taxes,9.78,0.28,mOECD equivalised household incomes assigned to individuals
+Average rate,Percent,In-kind benefits,20.21,0.79,mOECD equivalised household incomes assigned to individuals
+Reranking index,Gini points,Income support,0.81,0.064,mOECD equivalised household incomes assigned to individuals
+Reranking index,Gini points,Direct taxes,0.08,0.006,mOECD equivalised household incomes assigned to individuals
+Reranking index,Gini points,Indirect taxes,0.29,0.054,mOECD equivalised household incomes assigned to individuals
+Reranking index,Gini points,In-kind benefits,0.61,0.049,mOECD equivalised household incomes assigned to individuals
+Gini coefficient 1987/88,Gini points,Market income,42.4,,Unequivalised household incomes assigned to individuals
+Gini coefficient 1987/88,Gini points,Disposable income,30.2,,Unequivalised household incomes assigned to individuals
+Gini coefficient 1987/88,Gini points,Final income,27.2,,Unequivalised household incomes assigned to individuals
+Gini coefficient 1997/98,Gini points,Market income,48.5,,Unequivalised household incomes assigned to individuals
+Gini coefficient 1997/98,Gini points,Disposable income,35.2,,Unequivalised household incomes assigned to individuals
+Gini coefficient 1997/98,Gini points,Final income,29.5,,Unequivalised household incomes assigned to individuals
+Gini coefficient 2006/07,Gini points,Market income,48.99,,Unequivalised household incomes assigned to individuals
+Gini coefficient 2006/07,Gini points,Disposable income,34.59,,Unequivalised household incomes assigned to individuals
+Gini coefficient 2006/07,Gini points,Final income,29.89,,Unequivalised household incomes assigned to individuals
+Gini coefficient 2009/10,Gini points,Market income,47.29,,Unequivalised household incomes assigned to individuals
+Gini coefficient 2009/10,Gini points,Disposable income,32.38,,Unequivalised household incomes assigned to individuals
+Gini coefficient 2009/10,Gini points,Final income,28.45,,Unequivalised household incomes assigned to individuals
+Gini coefficient 2018/19,Gini points,Market income,46.01,1.63,Unequivalised household incomes assigned to individuals
+Gini coefficient 2018/19,Gini points,Disposable income,35.47,1.51,Unequivalised household incomes assigned to individuals
+Gini coefficient 2018/19,Gini points,Final income,32.23,1.43,Unequivalised household incomes assigned to individuals
